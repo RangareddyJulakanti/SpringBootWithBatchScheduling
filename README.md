@@ -1,6 +1,13 @@
+
+Reference :
+1.https://spring.io/guides/gs/batch-processing/
+2.https://spring.io/guides/gs/scheduling-tasks/
+
+
+
 # SpringBootWithBatchScheduling
 
-# Add oracle database credentials like the below
+# Add oracle database credentials in application.properties like the below
 
 spring.datasource.url=jdbc:oracle:thin:@localhost:1521:XE
 
