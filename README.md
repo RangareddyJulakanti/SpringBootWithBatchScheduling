@@ -1,6 +1,6 @@
 # SpringBootWithBatchScheduling
 
-# Add oracle database credenttials like the below
+# Add oracle database credentials like the below
 
 spring.datasource.url=jdbc:oracle:thin:@localhost:1521:XE
 
