@@ -1,4 +1,4 @@
-package com.javasampleapproach.springbatch;
+package com.cvs.example.springbatch;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

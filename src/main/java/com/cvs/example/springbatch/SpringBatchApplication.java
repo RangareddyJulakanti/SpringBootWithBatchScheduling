@@ -1,4 +1,4 @@
-package com.javasampleapproach.springbatch;
+package com.cvs.example.springbatch;
 
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.boot.SpringApplication;
